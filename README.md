@@ -57,18 +57,6 @@ The primary objective is to demonstrate the from-scratch implementation of an SV
 *   **Rich Visualizations:** Generates plots for EDA, loss curves, accuracy curves, and decision boundaries to aid in understanding model behavior and data characteristics.
 *   **Modular Code:** The notebook is structured to separate data loading, preprocessing, model definition, training, and evaluation steps.
 
-## Technologies Used
-
-*   **Python:** The core programming language.
-*   **Pandas:** For data manipulation and analysis, particularly for handling CSV files and DataFrames.
-*   **NumPy:** For numerical operations, especially array manipulations.
-*   **Scikit-learn:** Used for:
-    *   Data splitting (`train_test_split`).
-    *   Preprocessing utilities (`LabelEncoder`, `StandardScaler`).
-    *   Metrics (`classification_report`, `accuracy_score`).
-    *   Dataset generation (`make_classification`) for demonstration purposes.
-*   **Matplotlib & Seaborn:** For creating static, interactive, and animated visualizations.
-*   **Jupyter Notebook:** As the interactive development environment for combining code, text, and visualizations.
 
 ## Installation
 
